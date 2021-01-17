@@ -1,0 +1,10 @@
+.screen{
+width:100vw;
+height : 100vh;
+overflow: scroll;
+scroll-snap-type: y mandatory;
+display: flex;
+flex-wrap: wrap;
+background-image: url("./tution.jpeg");
+}
+

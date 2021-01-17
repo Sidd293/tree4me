@@ -1,0 +1,27 @@
+.card {
+  scroll-snap-align: start;
+  height: 100vh;
+  width: 100vw;
+  border: 3px;
+  border-color: black;
+  font-family: Didot, serif;
+  background-image: url("http://www.paperplanecommunications.co.uk/wp-content/uploads/2011/10/Blackboard.jpg");
+  background-size: cover;
+  vertical-align: middle;
+  text-align: left;
+  color: brown;
+  text-shadow: 5px 5px 5px rgba(245, 78, 142, 0.404);
+}
+.head {
+font-size : 5em;
+}
+
+.nothead {
+  font-size : 4em;
+}
+
+.body {
+  font-size: 1.3em;
+  color : goldenrod;
+  text-shadow: 5px 5px 5px rgba(209, 245, 78, 0.938);
+}
