@@ -1,0 +1,24 @@
+.__card {
+box-shadow: 3px 5px 6px green;
+margin:30px;
+border-radius: 5%;
+
+
+height: 200px;
+background-size: cover;
+
+}
+.dialogue{
+background-color: rgb(255, 255, 255);
+position: relative;
+top : 70px;
+right :0px;
+width:auto;
+margin: -30px;
+padding-left: -30px;
+text-overflow: clip;
+height:max-content;
+font-size: 1em;
+border-radius: 5%;
+box-shadow: 10px,15  0px black;
+}

@@ -1,0 +1,68 @@
+.app__Header {
+  position:fixed;
+  width: 100vw;
+  background-color: lightcyan;
+  display: flex;
+  border-radius: 5%;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: -10px;
+  z-index: 100;
+  color: darkolivegreen;
+
+}
+.header__button {
+  color: darkolivegreen;
+}
+.content__bg {
+  
+  width:  max(30vw, 300px);
+margin-top: 75px;
+padding : 25px;  
+background-image: url("https://wallpapercave.com/wp/RQEgLI5.jpg");
+  /* background : linear-gradient(to bottom right ,lightgreen,yellow); */
+  background-size: cover;
+  background-repeat: repeat;
+  height: min-content;
+
+}
+.screenc{
+  margin-top: 75px;
+  background : linear-gradient(to bottom right ,lightgreen,yellow);
+  width:  max(30vw, 300px);
+  padding :0px;
+
+}
+
+.main__content{
+  display: flex;
+  justify-content: center;
+}
+.mprofile_pic
+{
+width  : 60px;
+height : 60px;
+
+/* background-image: url({pp}); */
+border-radius: 100%;
+overflow: hidden;
+}
+
+.notif_ct{
+position: absolute;
+right: 10px;
+top:-16px;
+
+}
+.notif{
+color : red;
+}
+.notnotif
+{
+color : grey;
+}
+
+.btn{
+
+ justify-content: space-between;
+}

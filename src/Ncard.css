@@ -1,0 +1,11 @@
+.ncard{
+margin-top: 5px;
+font-size: small;
+text-align: left;
+height:fit-content;
+border: .5px grey;
+background-color: honeydew;
+display:flex;
+align-content:space-between;
+padding:10px;
+}
